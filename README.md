@@ -8,3 +8,7 @@ Penelitian ini menerapkan proses text mining serta menggunakan algoritma Naïve 
 Dari keseluruhan proses akan didapat tiga kelas topik yang memiliki sentimen disetiap topiknya. Sentimen positif, negatif dan netral, topik dibagi menjadi tiga kelas yaitu kegiatan polisi, sentimen untuk layanan masyarakat, sentimen pada komentar masyarakat dan sentimen secara keseluruhan. Didapat jumlah sentimen positif sebanyak 181 tweets, negatif 322 tweets dan Netral sebanyak 33 tweets. Untuk hasil pngklasifikasian topik didapat sebanyak 120 tweets dengan topik kegiatan polisi, 49 dengan topik layanan masyarakat dan 367 tweets untuk topik komentar masyarakat. Dari hasil analisis sentimen dari setiap topik didapat respon positif sebesar 55 % untuk topik kegiatan kepolisian, 19,1% respon positif untuk topik komentar masyarakat dan respon positif untuk layanan masyarakat sebesar 91,8%.
 
 Kata Kunci : ***Analisis Sentimen, Klasifikasi Topik, Naive Bayes Classifier, Twitter.***
+
+
+
+link : [https://www.kaggle.com/iannarsa/analisis-sentimen-dan-topik-ind?scriptVersionId=20741934](https://www.kaggle.com/iannarsa/analisis-sentimen-dan-topik-ind?scriptVersionId=20741934)
